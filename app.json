@@ -2,7 +2,7 @@
   "name": "hoppscotch",
   "description": "Hoppscotch - A free, fast and beautiful API request builder.",
   "repository": "https://github.com/macsymgit/hoppscotch/tree/main",
-  "logo": "https://github.com/hoppscotch/hoppscotch/blob/main/static/images/ufo_logo.svg",
+  "logo": "https://raw.githubusercontent.com/hoppscotch/hoppscotch/56151982a7fb812be122bcd786208a36c12a979c/static/images/ufo_logo.svg",
   "keywords": ["node", "hoppscotch", "heroku"],
   "website": "https://github.com/hoppscotch/hoppscotch",
   "success_url": "/",
